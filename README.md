@@ -139,4 +139,6 @@ This analysis helps businesses:
 
 - Modify or extend the analysis as needed
 
+<img width="1301" height="737" alt="Screenshot 2025-12-07 132301" src="https://github.com/user-attachments/assets/40d91dde-9924-4e64-95df-c0e70be1945d" />
+
 
